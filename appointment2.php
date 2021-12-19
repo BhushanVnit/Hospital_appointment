@@ -1,3 +1,9 @@
+<?php
+
+include 'partials/_bbconnect.php';
+
+?>
+
 <!doctype html>
 <html lang="en">
 
